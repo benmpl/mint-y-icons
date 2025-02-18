@@ -21,6 +21,8 @@ VARIANTS.append({"name":"Purple","folder":"a27ae4","backfolder":"7240c3","paper"
 VARIANTS.append({"name":"Cyan","folder":"00bcd4","backfolder":"0096aa","paper":"e4e4e4","emblem":"00424a"})
 VARIANTS.append({"name":"Navy","folder":"b8d8eb","backfolder":"004988","paper":"f4f4f4","emblem":"081f2d"})
 VARIANTS.append({"name":"Yaru","folder":"676767","backfolder":"973552","paper":"ff7446","emblem":"e4e4e4"})
+VARIANTS.append({"name":"Sage","folder":"647c64","backfolder":"526652","paper":"e4e4e4","emblem":"384638"})
+VARIANTS.append({"name":"Lavender","folder":"967bb6","backfolder":"8262a8","paper":"e4e4e4","emblem":"48355f"})
 
 for filename in os.listdir("."):
     if filename.endswith(".svg"):
